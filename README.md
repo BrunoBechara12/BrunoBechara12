@@ -1,25 +1,47 @@
-## Bem-vindo(a) ao meu perfil!!! 😁
+## Prazer! 👋 Meu nome é Bruno Bechara!
+<br>
 
- <div>
-   <a href="https://github.com/BrunoBechara12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+# Sou um Desenvolvedor Front End! 🖥️
+
+Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em ReactJS. Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
+
+<p align="center">
+  Veja também meu: <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/">linkedin</a>
+</p>
+<br><br>
+
+## Skills 🖥️
+> HTML5 • CSS • JavaScript • 
+<div>
+<img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
+<img height= "50rem" alt="CSS3" src="https://user-images.githubusercontent.com/109265005/221436667-7649df5e-77ef-4843-8902-bc6588e1cacd.svg" />
+<img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
+</div>
+<br><br>
+
+
+## Sobre mim ⚙️
+<div>
+• Estou cursando o curso de Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
+• Meus principais hobbies são praticar esportes coletivos como basquete, futebol, vôlei e claro, jogar video-games!  🏀⚽🏐 🎮<br>
+</div>
+<br><br>
+
+## Stats e Top Languages 💾
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Para entrar em contato acesse abaixo!!!
- 
-<div> 
-  <a href = "mailto:brunosbechara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-  ![Snake animation](https://github.com/BrunoBechara12/BrunoBechara12/blob/output/github-contribution-grid-snake.svg)
+## Entre em contato! ✉️
 
+<div align="center">
+  <div align="left">
+    <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank">
+    </a>
+    <a href = "mailto:brunosbechara@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank">
+    </a>
+  </div>
+  <br>
+  <img height="350 rem" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
 </div>
