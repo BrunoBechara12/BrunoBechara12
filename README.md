@@ -24,6 +24,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em JavaScrip
 <div>
 • Estou cursando o curso de Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
 • Meus principais hobbies são praticar esportes coletivos como basquete, futebol, vôlei e claro, jogar video-games!  🏀⚽🏐 🎮<br>
+• Atualmente trabalho como auxiliar contábil e meu sonho é ser um Desenvolvedor! <br>
 </div>
 <br><br>
 
