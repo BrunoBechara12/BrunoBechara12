@@ -3,7 +3,7 @@
 
 # Sou um Desenvolvedor Front End! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em JavaScript. Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou um Desenvolvedor Front End, atualmente focado em JavaScript. Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
 
 <p align="center">
   Veja também meu: <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/">linkedin</a>
