@@ -1,7 +1,7 @@
 ## Prazer! 👋 Meu nome é Bruno Bechara!
 <br>
 
-# Sou um Desenvolvedor Front End! 🖥️
+# Sou um Desenvolvedor Backend! 🖥️
 
 Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
 <br><br><br>
