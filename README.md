@@ -3,34 +3,29 @@
 
 # Sou um Desenvolvedor Front End! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenvolvedor Front End, atualmente focado em JavaScript. Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
-
-<p align="center">
-  Veja também meu: <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/">linkedin</a>
-</p>
-
+Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
+<br><br><br>
 
 ## Skills 🖥️
-> HTML5 • CSS • JavaScript • 
+> C# • .NET • 
 <div>
-<img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
-<img height= "50rem" alt="CSS3" src="https://user-images.githubusercontent.com/109265005/221436667-7649df5e-77ef-4843-8902-bc6588e1cacd.svg" />
-<img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
+<img height= "55rem" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 <br><br>
 
 
 ## Sobre mim ⚙️
 <div>
-• Estou cursando o curso de Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
-• Meus principais hobbies são praticar esportes coletivos como basquete, futebol, vôlei e claro, jogar video-games!  🏀⚽🏐 🎮<br>
+• Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
 • Atualmente trabalho como auxiliar contábil e meu sonho é ser um Desenvolvedor! <br>
 </div>
 <br><br>
 
 ## Stats e Top Languages 💾
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
+<br><br>
 
 ## Entre em contato! ✉️
 
