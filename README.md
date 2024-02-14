@@ -32,10 +32,10 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta
 <div align="center">
   <div align="left">
     <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank">
     </a>
-    <a href = "mailto:brunosbechara@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px">
+    <a href="mailto:brunosbechara@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank">
     </a>
   </div>
   <br>
