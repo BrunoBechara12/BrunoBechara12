@@ -7,10 +7,12 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta
 <br><br><br>
 
 ## Skills 🖥️
-> C# • .NET • 
+> C# • .NET • SQLite • MySQL
 <div>
 <img height= "55rem" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />    
+<img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <br><br>
 
