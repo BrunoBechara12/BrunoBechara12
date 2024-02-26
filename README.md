@@ -25,8 +25,10 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta
 <br><br>
 
 ## Stats e Top Languages 💾
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <br><br>
 
 ## Entre em contato! ✉️
