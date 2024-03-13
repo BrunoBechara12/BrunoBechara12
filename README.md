@@ -7,20 +7,21 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta
 <br><br><br>
 
 ## Skills 🖥️
-   >   C#   •   .NET   •   SQLite   •   MySQL
+   >    C#     •      .NET     •    SQL Server  • Azure
 <div>
 <img width="100rem" height= "55rem" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img  width="100rem" height="65rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />    
-<img height="65em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width="100rem" height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img width="100rem" height= "55rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
+<img width="100rem" height= "55rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
 <br><br>
 
 
 ## Sobre mim ⚙️
 <div>
+• Tenho 19 anos  🎉<br>
+• Sou de Adamantina - SP 🏡 <br>
 • Estou cursando a faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
-• Atualmente trabalho como auxiliar contábil e meu sonho é ser um Desenvolvedor! <br>
 </div>
 <br><br>
 
