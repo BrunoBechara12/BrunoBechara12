@@ -1,9 +1,8 @@
 ## Prazer! 👋 Meu nome é Bruno Bechara!
-<br>
 
 # Sou um Desenvolvedor Backend! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou um Desenvolvedor Backend utilizando a linguagem C#.  Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
 <br><br><br>
 
 ## Skills 🖥️
@@ -31,6 +30,16 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend, atualmente focado em C#.  Sinta
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br><br>
+
+## Projetos 🛠️
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=CRUD-ASP-NET-MVC-&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/CRUD-ASP-NET-MVC)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=EntityCRUD&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/EntityCRUD)
+ 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=AuctionAPI-NWL-Expert-&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/AuctionAPI-NWL-Expert-)
+
+<br>
 
 ## Entre em contato! ✉️
 
