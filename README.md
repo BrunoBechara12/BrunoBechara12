@@ -6,12 +6,11 @@ Seja bem-vindo(a)! Sou um Desenvolvedor Backend utilizando a linguagem C#.  Sint
 <br><br><br>
 
 ## Skills 🖥️
-   >    C#     •      .NET     •    SQL Server  • Azure
+   >    C#     •      .NET     •    SQL Server 
 <div>
 <img width="100rem" height= "55rem" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width="100rem" height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img width="100rem" height= "55rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
-<img width="100rem" height= "55rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
 <br><br>
 
