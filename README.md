@@ -1,56 +1,52 @@
-## Prazer! 👋 Meu nome é Bruno Bechara!
 
-# Sou um Desenvolvedor Backend! 🖥️
+<h2 align="center">Prazer! 👋 Meu nome é Bruno Bechara!</h2>
 
-Seja bem-vindo(a)! Sou um Desenvolvedor Backend utilizando a linguagem C#.  Sinta-se livre para visitar meus [repositórios](https://github.com/BrunoBechara12?tab=repositories)! 🤙
-<br><br><br>
-
-## Skills 🖥️
-   >    C#     •      .NET     •    SQL Server 
-<div>
-<img width="100rem" height= "55rem" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="100rem" height= "55rem" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img width="100rem" height= "55rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
-</div>
-<br><br>
+<h3 align="center">Sou um Desenvolvedor Backend! 🖥️</h3>
 
 
-## Sobre mim ⚙️
-<div>
-• Tenho 19 anos  🎉<br>
-• Sou de Adamantina - SP 🏡 <br>
-• Estou cursando a faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas 👾 <br>
-</div>
-<br><br>
+<h2 align="left">About me ⚙</h2>
 
-## Stats e Top Languages 💾
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBechara12&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<br><br>
+###
 
-## Projetos 🛠️
+<p align="left">🌱 Atualmente estou me aprofundando em backend com NodeJS e Typescript.<br><br>💻 Backend Delevoper Junior na Ideia Business desde julho de 2024.<br><br>📫 Como entrar em contato comigo: <a href="mailto:brunosbechara@gmail.com" target="_blank">brunosbechara@gmail.com</a></p>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=CRUD-ASP-NET-MVC-&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/CRUD-ASP-NET-MVC)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=EntityCRUD&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/EntityCRUD)
- 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoBechara12&repo=AuctionAPI-NWL-Expert-&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/BrunoBechara12/AuctionAPI-NWL-Expert-)
+###
 
 <br>
+<h2 align="left">I code with</h2>
 
-## Entre em contato! ✉️
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h2 align="left">Stats e Top Languages 💾</h2>
+
+###
 
 <div align="center">
-  <div align="left">
-    <a href="https://www.linkedin.com/in/bruno-de-sousa-bechara-474b11267/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank">
-    </a>
-    <a href="mailto:brunosbechara@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank">
-    </a>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoBechara12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<br>
+<h2 align="center">Obrigado por visitar! Entre em contato</h2>
+<div align="center">
   <br>
-  <img height="350 rem" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
+  <img height="300 rem" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
 </div>
