@@ -1,22 +1,18 @@
 
-<h2 align="center">Prazer! 👋 Meu nome é Bruno Bechara!</h2>
+<h1 align="center">Prazer! 👋 Meu nome é Bruno Bechara!</h1>
 
-<h3 align="center">Sou um Desenvolvedor Backend! 🖥️</h3>
-
-
-<h2 align="left">About me ⚙</h2>
+<h3 style="none" align="center">Sou um Desenvolvedor Backend! 🖥️</h3>
 
 ###
+
+<h1 align="left">About me ⚙</h1>
 
 <p align="left">🌱 Atualmente estou me aprofundando em backend com NodeJS e Typescript.<br><br>💻 Backend Delevoper Junior na Ideia Business desde julho de 2024.<br><br>📫 Como entrar em contato comigo: <a href="mailto:brunosbechara@gmail.com" target="_blank">brunosbechara@gmail.com</a></p>
-
-###
-
 <br>
-<h2 align="left">I code with</h2>
 
 ###
 
+<h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="16" />
@@ -30,12 +26,11 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
 </div>
+<br>
 
 ###
 
 <h2 align="left">Stats e Top Languages 💾</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoBechara12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
@@ -45,8 +40,8 @@
 ###
 
 <br>
-<h2 align="center">Obrigado por visitar! Entre em contato</h2>
+<h2 align="center">Obrigado por visitar!</h2>
 <div align="center">
   <br>
-  <img height="300 rem" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
+  <img height="250 rem" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
 </div>
