@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="left">About me ⚙</h1>
+<h2 align="left">About me ⚙</h2>
 
 <p align="left">🌱 Atualmente estou me aprofundando em backend com NodeJS e Typescript.<br><br>💻 Backend Delevoper Junior na Ideia Business desde julho de 2024.<br><br>📫 Como entrar em contato comigo: <a href="mailto:brunosbechara@gmail.com" target="_blank">brunosbechara@gmail.com</a></p>
 <br>
