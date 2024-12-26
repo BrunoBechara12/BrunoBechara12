@@ -7,7 +7,7 @@
 
 <h2 align="left">About me ⚙</h2>
 
-<p align="left">🌱 Atualmente estou me aprofundando em backend com NodeJS e Typescript.<br><br>💻 Backend Delevoper Junior na Ideia Business desde julho de 2024.<br><br>📫 Como entrar em contato comigo: <a href="mailto:brunosbechara@gmail.com" target="_blank">brunosbechara@gmail.com</a></p>
+<p align="left">🌱 Atualmente estou me aprofundando em backend com NodeJS e Typescript.<br><br>💻 Backend Delevoper Junior desde julho de 2024.<br><br>📫 Como entrar em contato comigo: <a href="mailto:brunosbechara@gmail.com" target="_blank">brunosbechara@gmail.com</a></p>
 <br>
 
 ###
@@ -23,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
 </div>
 <br>
 
