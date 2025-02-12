@@ -7,7 +7,7 @@
 
 <h2 align="left">About me ⚙</h2>
 
-Sou um desenvolvedor backend júnior com 6 meses de experiência, atuando no desenvolvimento e manutenção de APIs robustas. Tenho habilidades no uso das linguagens C# e Node.js, e sou responsável pela criação de soluções escaláveis, além de garantir o bom funcionamento e desempenho das aplicações. Também me dedico à criação de documentações detalhadas para facilitar a compreensão e o uso das APIs por outros desenvolvedores e equipes.
+Sou um desenvolvedor backend júnior com 8 meses de experiência, atuando no desenvolvimento e manutenção de APIs robustas. Tenho habilidades no uso das linguagens C# e Node.js, e sou responsável pela criação de soluções escaláveis, além de garantir o bom funcionamento e desempenho das aplicações. Também me dedico à criação de documentações detalhadas para facilitar a compreensão e o uso das APIs por outros desenvolvedores e equipes.
 
 Além disso, possuo experiência com bancos de dados relacionais, realizando a modelagem de dados, consultas complexas e garantindo a integridade das informações. Também forneço suporte técnico e colaborações no processo de debugging, sempre buscando otimizar o código e aprimorar a qualidade das soluções entregues. Minha principal motivação é continuar aprendendo e evoluindo no campo do desenvolvimento Backend, proporcionando soluções eficientes e bem estruturadas, além de poder contribuir com minha equipe.
 
